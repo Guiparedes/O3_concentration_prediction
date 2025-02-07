@@ -17,4 +17,4 @@ O **objetivo** deste trabalho é realizar a previsão , baseada nas observaçõe
 
 ## Estrutura do projeto
 
-Obs.: o conjunto de dados, Jena Climate, foi coletado no site: (url).
+Obs.: Dados referentes a url
