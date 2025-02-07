@@ -16,5 +16,15 @@ O **objetivo** deste trabalho é realizar a previsão , baseada nas observaçõe
 - ```sklearn```: para criar, treinar e implementar modelos de aprendizado de máquina
 
 ## Estrutura do projeto
-
+1. Introdução
+2. Contexto do dataset
+3. Dados
+4. Objetivo do estudo
+5. Importação de bibliotecas
+6. Leitura dos dados
+7. Análise descritiva geral
+8. Proposta de um Modelo Baseline
+9. Proposta de um modelo mais complexo
+10. Conclusão
+11. Sugestão de outros modelos
 Obs.: Dados referentes a url
